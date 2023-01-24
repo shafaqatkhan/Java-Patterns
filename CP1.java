@@ -39,6 +39,8 @@ public class CP1 {
 		double num = sc1.nextDouble();
 		
 		System.out.println("Saadata TEst");
+		
+		System.out.println("Shafaqat Khan TEst");
 		 
 	
 	
