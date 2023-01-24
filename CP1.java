@@ -37,6 +37,8 @@ public class CP1 {
 		Scanner sc1 = new Scanner(System.in);
 		System.out.print("Enter any number : ");
 		double num = sc1.nextDouble();
+		
+		System.out.println("Saadata TEst");
 		 
 	
 	
